@@ -14,7 +14,7 @@ I have several open-source projects you can check out if you want. Most of them 
 - _More coming soon..._
 
 ### 👀 Some more information about me
-- 🎮 **Favorite games:** Genshin Impact, Honkai: Star Rail, Wuthering Waves, Minecraft, and The Legend of Zelda series.
+- 🎮 **Favorite games:** Genshin Impact, Honkai: Star Rail, Wuthering Waves, Minecraft and The Legend of Zelda series.
 - 💻 **Currently working on:** Transforming older and newer projects to make them ready for open-source.
 - 📚 **Currently learning:** C and C++
 - ⚡ **Fun fact:** I save 90% of all the code I’ve ever written, the oldest code-base I could find is from 2013.
