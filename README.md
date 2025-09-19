@@ -1,6 +1,6 @@
 # Hi, I'm Almighty Shogun 👋
 
-A 26-year-old 100% self-taught web/app developer, gamer, and soon-to-be father living in the Netherlands. I love programming all day and experimenting with different languages. I’m always open to new challenges, pushing my limits, and improving my code to get the best possible results!
+A 26-year-old 100% self-taught web/app developer, gamer, and father living in the Netherlands. I love programming all day and experimenting with different languages. I’m always open to new challenges, pushing my limits, and improving my code to get the best possible results!
 
 ### 📬 Get in touch with me
 - 🌐 Website: **[shogun.ms](https://shogun.ms)** (coming soon)
