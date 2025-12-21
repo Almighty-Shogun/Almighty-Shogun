@@ -9,10 +9,13 @@ A 27-year-old 100% self-taught web/app developer, gamer, and father living in th
 - 📧 E-mail: **alm1ghtyshogun1998@gmail.com**
 
 ### 🛠️ Open-source projects
-I have several open-source projects you can check out if you want. Most of them were created for personal use. In the upcoming weeks/months, I will release more of my older projects as open-source and share some new projects as well, freely available for you to use.  
+I have several open-source projects you can check out if you want. Most of them were created for personal use. Slowly over time, I will release more of my older projects as open-source and share some new projects as well, freely available for you to use.  
 - **[BudgetTracker](https://github.com/Almighty-Shogun/BudgetTracker)**: A CLI application to keep track of your budget.
 - **[Packages](https://github.com/Almighty-Shogun/Packages)**: A collection of Node / Bun packages I use in (personal) projects.
 - **[DiscordWebhook](https://github.com/Almighty-Shogun/DiscordWebhook)**: A implementation for Discord webhooks in PHP 8.3+
+- **[Logging](https://github.com/Almighty-Shogun/Logging)**: A C# logging wrapper around Serilog with custom color support.
+- **[ConsoleCommands](https://github.com/Almighty-Shogun/ConsoleCommands)**: A simple C# implementation for console commands using attributes.
+- **[RemoteCommands](https://github.com/Almighty-Shogun/RemoteCommands)**: A simple C# implementation for remote commands using attributes.
 - _More coming soon..._
 
 ### 👀 Some more information about me
