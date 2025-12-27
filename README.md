@@ -13,9 +13,10 @@ I have several open-source projects you can check out if you want. Most of them 
 - **[BudgetTracker](https://github.com/Almighty-Shogun/BudgetTracker)**: A CLI application to keep track of your budget.
 - **[Packages](https://github.com/Almighty-Shogun/Packages)**: A collection of Node / Bun packages I use in (personal) projects.
 - **[DiscordWebhook](https://github.com/Almighty-Shogun/DiscordWebhook)**: A implementation for Discord webhooks in PHP 8.3+
-- **[Logging](https://github.com/Almighty-Shogun/Logging)**: A C# logging wrapper around Serilog with custom color support.
-- **[ConsoleCommands](https://github.com/Almighty-Shogun/ConsoleCommands)**: A simple C# implementation for console commands using attributes.
-- **[RemoteCommands](https://github.com/Almighty-Shogun/RemoteCommands)**: A simple C# implementation for remote commands using attributes.
+- **[AlmightyShogun.Logging](https://github.com/Almighty-Shogun/Logging)**: A C# logging wrapper around Serilog with custom color support.
+- **[AlmightyShogun.ConsoleCommands](https://github.com/Almighty-Shogun/AlmightyShogun.ConsoleCommands)**: A simple C# implementation for console commands using attributes.
+- **[AlmightyShogun.RemoteCommands](https://github.com/Almighty-Shogun/AlmightyShogun.RemoteCommands)**: A simple C# implementation for remote commands using attributes.
+- **[AlmightyShogun.Utils](https://github.com/Almighty-Shogun/AlmightyShogun.Utils)**: A simple C# library including some common utils I use in various projects.
 - _More coming soon..._
 
 ### 👀 Some more information about me
