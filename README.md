@@ -17,6 +17,7 @@ I have several open-source projects you can check out if you want. Most of them 
 - **[AlmightyShogun.ConsoleCommands](https://github.com/Almighty-Shogun/AlmightyShogun.ConsoleCommands)**: A simple C# implementation for console commands using attributes.
 - **[AlmightyShogun.RemoteCommands](https://github.com/Almighty-Shogun/AlmightyShogun.RemoteCommands)**: A simple C# implementation for remote commands using attributes.
 - **[AlmightyShogun.Utils](https://github.com/Almighty-Shogun/AlmightyShogun.Utils)**: A simple C# library including some common utils I use in various projects.
+- **[AlmightyShogun.EntityFrameworkCore.Utils](https://github.com/Almighty-Shogun/AlmightyShogun.EntityFrameworkCore.Utils)**: A simple C# library that add extensions to Entity Framework Core
 - _More coming soon..._
 
 ### 👀 Some more information about me
