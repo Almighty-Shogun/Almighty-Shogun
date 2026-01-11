@@ -11,13 +11,9 @@ A 27-year-old 100% self-taught web/app developer, gamer, and father living in th
 ### 🛠️ Open-source projects
 I have several open-source projects you can check out if you want. Most of them were created for personal use. Slowly over time, I will release more of my older projects as open-source and share some new projects as well, freely available for you to use.  
 - **[BudgetTracker](https://github.com/Almighty-Shogun/BudgetTracker)**: A CLI application to keep track of your budget.
-- **[Packages](https://github.com/Almighty-Shogun/Packages)**: A collection of Node / Bun packages I use in (personal) projects.
+- **[Node Packages](https://github.com/Almighty-Shogun/NodePackages)**: A collection of Node / Bun packages I use in (personal) projects.
+- **[NuGet Packages](https://github.com/Almighty-Shogun/NuGetPackages)**: A collection of NuGet packages I use in (personal) projects.
 - **[DiscordWebhook](https://github.com/Almighty-Shogun/DiscordWebhook)**: A implementation for Discord webhooks in PHP 8.3+
-- **[AlmightyShogun.Logging](https://github.com/Almighty-Shogun/Logging)**: A C# logging wrapper around Serilog with custom color support.
-- **[AlmightyShogun.ConsoleCommands](https://github.com/Almighty-Shogun/AlmightyShogun.ConsoleCommands)**: A simple C# implementation for console commands using attributes.
-- **[AlmightyShogun.RemoteCommands](https://github.com/Almighty-Shogun/AlmightyShogun.RemoteCommands)**: A simple C# implementation for remote commands using attributes.
-- **[AlmightyShogun.Utils](https://github.com/Almighty-Shogun/AlmightyShogun.Utils)**: A simple C# library including some common utils I use in various projects.
-- **[AlmightyShogun.EntityFrameworkCore.Utils](https://github.com/Almighty-Shogun/AlmightyShogun.EntityFrameworkCore.Utils)**: A simple C# library that add extensions to Entity Framework Core
 - _More coming soon..._
 
 ### 👀 Some more information about me
