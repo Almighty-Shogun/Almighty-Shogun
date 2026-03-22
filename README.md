@@ -14,6 +14,7 @@ I have several open-source projects you can check out if you want. Most of them 
 - **[Node Packages](https://github.com/Almighty-Shogun/NodePackages)**: A collection of Node / Bun packages I use in (personal) projects.
 - **[NuGet Packages](https://github.com/Almighty-Shogun/NuGetPackages)**: A collection of NuGet packages I use in (personal) projects.
 - **[DiscordWebhook](https://github.com/Almighty-Shogun/DiscordWebhook)**: A implementation for Discord webhooks in PHP 8.3+
+- **[Genshin-Datamine](https://github.com/Almighty-Shogun/Genshin-Datamine)**: A collection of Node / Bun packages around Genshin Impact datamining.
 - _More coming soon..._
 
 ### 👀 Some more information about me
