@@ -15,7 +15,7 @@ I have several open-source projects you can check out if you want. Most of them 
 - **[NuGet Packages](https://github.com/Almighty-Shogun/NuGetPackages)**: A collection of NuGet packages I use in (personal) projects.
 - **[DiscordWebhook](https://github.com/Almighty-Shogun/DiscordWebhook)**: A implementation for Discord webhooks in PHP 8.3+
 - **[Genshin-Datamine](https://github.com/Almighty-Shogun/Genshin-Datamine)**: A collection of Node / Bun packages around Genshin Impact datamining.
-- _More coming soon..._
+- **[NGINX Ubuntu](https://github.com/Almighty-Shogun/nginx-ubuntu)**: My personal installation of NGINX running on Ubuntu 24.04 with installation script and more.
 
 ### 👀 Some more information about me
 - 🎮 **Favorite games:** Genshin Impact, Honkai: Star Rail, Wuthering Waves, Minecraft and The Legend of Zelda series.
