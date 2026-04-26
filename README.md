@@ -12,6 +12,7 @@ A 27-year-old 100% self-taught web/app developer, gamer, and father living in th
 I have several open-source projects you can check out if you want. Most of them were created for personal use. Slowly over time, I will release more of my older projects as open-source and share some new projects as well, freely available for you to use.  
 - **[Budget Tracker](https://github.com/Almighty-Shogun/budget-tracker)**: A CLI application to keep track of your budget.
 - **[NGINX Ubuntu](https://github.com/Almighty-Shogun/nginx-ubuntu)**: My personal installation of NGINX running on Ubuntu 24.04 with installation script and more.
+- **[Codex GNOME Extension](https://github.com/Almighty-Shogun/codex-gnome-extension)**: A GNOME Shell extension that adds a Codex usage indicator to the top bar.
 - _More coming soon..._
 
 ### 📦 Packages / Libraries
@@ -23,7 +24,7 @@ I have several packages and libraries you can check out if you want. Most of the
 - _More coming soon..._
 
 ### 👀 Some more information about me
-- 🎮 **Favorite games:** Genshin Impact, Honkai: Star Rail, Wuthering Waves, Minecraft and The Legend of Zelda series.
+- 🎮 **Favorite games:** Genshin Impact, Honkai: Star Rail, Wuthering Waves, Hytale, Minecraft and The Legend of Zelda series.
 - 💻 **Currently working on:** Transforming older (and creating new) projects to make them for open-source.
 - 📚 **Currently learning:** Diving into creating ASP.NET APIs.
 - ⚡ **Fun fact:** I save 90% of all the code I’ve ever written, the oldest code-base I could find is from 2013.
