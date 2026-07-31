@@ -14,6 +14,7 @@ I have several open-source projects you can check out if you want. Most of them 
 - **[NGINX Ubuntu](https://github.com/Almighty-Shogun/nginx-ubuntu)**: My personal installation of NGINX running on Ubuntu 24.04 with installation script and more.
 - **[Codex GNOME Extension](https://github.com/Almighty-Shogun/codex-gnome-extension)**: A GNOME Shell extension that adds a Codex usage indicator to the top bar.
 - **[Shogun's DevPack](https://github.com/Almighty-Shogun/shogun-devpack)**: A JetBrains plugin written in Kotlin with some useful things.
+- **[Silent Compose](https://github.com/Almighty-Shogun/silent-compose)**: A system-wide US-International input for Fedora GNOME Wayland, without visible dead-key previews or preedit text.
 - _More coming soon..._
 
 ### 📦 Packages / Libraries
