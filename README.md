@@ -15,6 +15,7 @@ I have several open-source projects you can check out if you want. Most of them 
 - **[Codex GNOME Extension](https://github.com/Almighty-Shogun/codex-gnome-extension)**: A GNOME Shell extension that adds a Codex usage indicator to the top bar.
 - **[Shogun's DevPack](https://github.com/Almighty-Shogun/shogun-devpack)**: A JetBrains plugin written in Kotlin with some useful things.
 - **[Silent Compose](https://github.com/Almighty-Shogun/silent-compose)**: A system-wide US-International input for Fedora GNOME Wayland, without visible dead-key previews or preedit text.
+- **[Claude GNOME Extension](https://github.com/Almighty-Shogun/claude-gnome-extension)**: A GNOME Shell extension that adds a Claude usage indicator to the top bar.
 - _More coming soon..._
 
 ### 📦 Packages / Libraries
