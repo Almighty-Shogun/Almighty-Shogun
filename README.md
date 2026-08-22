@@ -3,24 +3,28 @@
 A 27-year-old 100% self-taught web/app developer, gamer, and father living in the Netherlands. I love programming all day and experimenting with different languages. I’m always open to new challenges, pushing my limits, and improving my code to get the best possible results!
 
 ### 📬 Get in touch with me
-- 🌐 Website: **[shogun.ms](https://shogun.ms)**
+- 🌐 Website: [**shogun.ms**](https://shogun.ms)
 - 💬 Discord: **almightyshogun**
-- 🐦 Twitter/X: **[@alm1ghty_shogun](https://x.com/alm1ghty_shogun)**
+- 💬 Discord Server: [**https://discord.com/invite/QJKU4kdyep**](https://discord.com/invite/QJKU4kdyep)
+- 🐦 Twitter/X: [**@alm1ghty_shogun**](https://x.com/alm1ghty_shogun)
 - 📧 E-mail: **alm1ghtyshogun1998@gmail.com**
 
+I have several open-source projects you can check out if you want. Most of these were created for personal use, but might as well also be very useful to you! Slowly over time, I will release more of my older projects as open-source and share some new projects as well, freely available for you to use.
+
 ### 🛠️ Open-source projects
-I have several open-source projects you can check out if you want. Most of them were created for personal use. Slowly over time, I will release more of my older projects as open-source and share some new projects as well, freely available for you to use.  
 - **[Budget Tracker](https://github.com/Almighty-Shogun/budget-tracker)**: A CLI application to keep track of your budget.
 - **[NGINX Ubuntu](https://github.com/Almighty-Shogun/nginx-ubuntu)**: My personal installation of NGINX running on Ubuntu 24.04 with installation script and more.
-- **[Codex GNOME Extension](https://github.com/Almighty-Shogun/codex-gnome-extension)**: A GNOME Shell extension that adds a Codex usage indicator to the top bar.
 - **[Shogun's DevPack](https://github.com/Almighty-Shogun/shogun-devpack)**: A JetBrains plugin written in Kotlin with some useful things.
 - **[Silent Compose](https://github.com/Almighty-Shogun/silent-compose)**: A system-wide US-International input for Fedora GNOME Wayland, without visible dead-key previews or preedit text.
-- **[Claude GNOME Extension](https://github.com/Almighty-Shogun/claude-gnome-extension)**: A GNOME Shell extension that adds a Claude usage indicator to the top bar.
 - **[Nautilus Windows Sort](https://github.com/Almighty-Shogun/nautilus-windows-sort)**: A small Nautilus shim that provides Windows Explorer-like directory sorting.
 - _More coming soon..._
 
+### 🧩 GNOME Extensions
+- **[Codex GNOME Extension](https://github.com/Almighty-Shogun/codex-gnome-extension)**: A GNOME Shell extension that adds a Codex usage indicator to the top bar.
+- **[Claude GNOME Extension](https://github.com/Almighty-Shogun/claude-gnome-extension)**: A GNOME Shell extension that adds a Claude usage indicator to the top bar.
+- _More coming soon..._
+
 ### 📦 Packages / Libraries
-I have several packages and libraries you can check out if you want. Most of them were created for personal use. Slowly over time, I will expand this collection with more reusable components and share new packages as well, freely available for you to use.
 - **[Node Packages](https://github.com/Almighty-Shogun/node-packages)**: A collection of Node / Bun packages I use in (personal) projects.
 - **[NuGet Packages](https://github.com/Almighty-Shogun/nuget-packages)**: A collection of NuGet packages I use in (personal) projects.
 - **[Genshin Datamine](https://github.com/Almighty-Shogun/genshin-datamine)**: A collection of Node / Bun packages around Genshin Impact datamining.
@@ -28,7 +32,7 @@ I have several packages and libraries you can check out if you want. Most of the
 - _More coming soon..._
 
 ### 👀 Some more information about me
-- 🎮 **Favorite games:** Genshin Impact, Honkai: Star Rail, Wuthering Waves, Hytale, Minecraft and The Legend of Zelda series.
+- 🎮 **Favorite games:** Genshin Impact, Honkai: Star Rail, Neverness to Everness, Wuthering Waves, Hytale, Minecraft and The Legend of Zelda series.
 - 💻 **Currently working on:** Transforming older (and creating new) projects to make them for open-source.
-- 📚 **Currently learning:** Diving into creating ASP.NET APIs.
+- 📚 **Currently learning:** Diving into creating ASP.NET API, making software for Linux in C
 - ⚡ **Fun fact:** I save 90% of all the code I’ve ever written, the oldest code-base I could find is from 2013.
