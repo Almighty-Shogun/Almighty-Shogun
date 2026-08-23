@@ -15,7 +15,7 @@ I have several open-source projects you can check out if you want. Most of these
 - **[Budget Tracker](https://github.com/Almighty-Shogun/budget-tracker)**: A CLI application to keep track of your budget.
 - **[NGINX Ubuntu](https://github.com/Almighty-Shogun/nginx-ubuntu)**: My personal installation of NGINX running on Ubuntu 24.04 with installation script and more.
 - **[Shogun's DevPack](https://github.com/Almighty-Shogun/shogun-devpack)**: A JetBrains plugin written in Kotlin with some useful things.
-- **[Silent Compose](https://github.com/Almighty-Shogun/silent-compose)**: A system-wide US-International input for Fedora GNOME Wayland, without visible dead-key previews or preedit text.
+- **[Silent Compose](https://github.com/Almighty-Shogun/silent-compose)**: A system-wide US-International input without visible dead-key previews or preedit text.
 - **[Nautilus Windows Sort](https://github.com/Almighty-Shogun/nautilus-windows-sort)**: A small Nautilus shim that provides Windows Explorer-like directory sorting.
 - **[Acer Nitro Sense](https://github.com/Almighty-Shogun/acer-nitro-sense-linux)**: A lightweight Acer Nitro fan-control daemon and CLI for Linux.
 - _More coming soon..._
