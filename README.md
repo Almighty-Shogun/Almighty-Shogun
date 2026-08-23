@@ -17,11 +17,13 @@ I have several open-source projects you can check out if you want. Most of these
 - **[Shogun's DevPack](https://github.com/Almighty-Shogun/shogun-devpack)**: A JetBrains plugin written in Kotlin with some useful things.
 - **[Silent Compose](https://github.com/Almighty-Shogun/silent-compose)**: A system-wide US-International input for Fedora GNOME Wayland, without visible dead-key previews or preedit text.
 - **[Nautilus Windows Sort](https://github.com/Almighty-Shogun/nautilus-windows-sort)**: A small Nautilus shim that provides Windows Explorer-like directory sorting.
+- **[Acer Nitro Sense](https://github.com/Almighty-Shogun/acer-nitro-sense-linux)**: A lightweight Acer Nitro fan-control daemon and CLI for Linux.
 - _More coming soon..._
 
 ### 🧩 GNOME Extensions
-- **[Codex GNOME Extension](https://github.com/Almighty-Shogun/codex-gnome-extension)**: A GNOME Shell extension that adds a Codex usage indicator to the top bar.
-- **[Claude GNOME Extension](https://github.com/Almighty-Shogun/claude-gnome-extension)**: A GNOME Shell extension that adds a Claude usage indicator to the top bar.
+- **[Codex](https://github.com/Almighty-Shogun/codex-gnome-extension)**: A GNOME Shell extension that adds a Codex usage indicator to the top bar.
+- **[Claude](https://github.com/Almighty-Shogun/claude-gnome-extension)**: A GNOME Shell extension that adds a Claude usage indicator to the top bar.
+- **[Acer Nitro Sense](https://github.com/Almighty-Shogun/acer-nitro-sense-linux-gnome-extension)**: A GNOME Shell extension for monitoring and controlling **_Acer Nitro Sense Linux_** fan speeds, presets, and profiles.
 - _More coming soon..._
 
 ### 📦 Packages / Libraries
