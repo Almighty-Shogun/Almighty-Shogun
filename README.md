@@ -18,6 +18,7 @@ I have several open-source projects you can check out if you want. Most of these
 - **[Silent Compose](https://github.com/Almighty-Shogun/silent-compose)**: A system-wide US-International input without visible dead-key previews or preedit text.
 - **[Nautilus Windows Sort](https://github.com/Almighty-Shogun/nautilus-windows-sort)**: A small Nautilus shim that provides Windows Explorer-like directory sorting.
 - **[Acer Nitro Sense](https://github.com/Almighty-Shogun/acer-nitro-sense-linux)**: A lightweight Acer Nitro fan-control daemon and CLI for Linux.
+- **[AI Skills](https://github.com/Almighty-Shogun/skills)**: A curated collection of practical AI coding-agent skills.
 - _More coming soon..._
 
 ### 🧩 GNOME Extensions
